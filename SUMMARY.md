@@ -12,5 +12,5 @@
 * [🧪 Testing & QA Strategy](docs/06-testing-qa-strategy.md)
 
 ## 📖 References
-* [🌍 External Strategy](refferences/external-strategy.txt)
-* [🎯 Internal Manifesto](refferences/internal-manifesto.txt)
+* [🌍 External Strategy](refferences/external-strategy.md)
+* [🎯 Internal Manifesto](refferences/internal-manifesto.md)
