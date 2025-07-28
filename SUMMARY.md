@@ -10,6 +10,7 @@
 * [🤖 Backend & AI Architecture](docs/04-backend-ai-architecture.md)
 * [🚀 Implementation Roadmap](docs/05-implementation-roadmap.md)
 * [🧪 Testing & QA Strategy](docs/06-testing-qa-strategy.md)
+* [💰 Pricing & Development Cost](docs/07-pricing-development-cost.md)
 
 ## 📖 References
 * [🌍 External Strategy](refferences/external-strategy.md)
