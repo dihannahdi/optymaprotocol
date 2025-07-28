@@ -1,0 +1,79 @@
+{
+  "title": "Optyma Agritech Protocol",
+  "description": "Comprehensive technical documentation for Optyma Agritech Protocol - Decentralized Agriculture Platform for Indonesia",
+  "author": "Optyma Team",
+  "language": "id",
+  "gitbook": ">=3.2.0",
+  "root": "./",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "links": {
+    "sidebar": {
+      "GitHub Repository": "https://github.com/dihannahdi/optymaprotocol",
+      "Optyma Website": "https://optyma.com"
+    }
+  },
+  "plugins": [
+    "search",
+    "sharing",
+    "fontsettings",
+    "theme-default",
+    "code",
+    "anchorjs",
+    "github",
+    "edit-link",
+    "prism",
+    "-highlight"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/dihannahdi/optymaprotocol"
+    },
+    "edit-link": {
+      "base": "https://github.com/dihannahdi/optymaprotocol/edit/main",
+      "label": "Edit This Page"
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper"
+      ]
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 2
+    },
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-tomorrow.css"
+      ],
+      "lang": [
+        "solidity",
+        "typescript",
+        "javascript",
+        "python",
+        "bash",
+        "json",
+        "yaml"
+      ]
+    }
+  },
+  "variables": {
+    "version": "1.0.0",
+    "protocol": "Optyma Agritech Protocol",
+    "blockchain": "Polygon",
+    "token": "OPTYMA"
+  }
+}

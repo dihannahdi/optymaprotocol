@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "space": {
+    "id": "XNqxUVw5hmVKqscMbiEw",
+    "title": "Optyma Agritech Protocol",
+    "description": "Decentralized Agriculture Protocol for Indonesia"
+  },
+  "git": {
+    "branch": "main",
+    "url": "https://github.com/dihannahdi/optymaprotocol.git"
+  },
+  "pdf": {
+    "fontSize": 12,
+    "fontFamily": "Arial",
+    "paperSize": "a4",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
+    }
+  }
+}
